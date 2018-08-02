@@ -1,0 +1,23 @@
+.pagination  {
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+}
+
+.btn {
+    border: none;
+    background: none;
+    color: black;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    margin: 4px 2px;
+    cursor: pointer;
+    font-size: 24px;
+    outline: none;
+}
+
+.btn:hover {
+    color: #003d99;
+}
